@@ -17,7 +17,7 @@ Awesome code:
 # Here are a bunch of owls sitting together in a row:
 #
 
-eampty_set = lambda :\
+empty_set = lambda :\
 \
 	{0-0} - {0o0} | {0.0} - {0,0} | {0e0} - {[0][0]}
 
@@ -26,7 +26,7 @@ eampty_set = lambda :\
 # Goofy people wearing glasses
 #
 
-empty_list = lamba :\
+empty_list = lambda :\
 \
 	 [0,][:0]
 
